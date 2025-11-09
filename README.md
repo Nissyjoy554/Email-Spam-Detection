@@ -1,5 +1,5 @@
-📧 Email Spam Detection (Classification)
-🧠 Overview
+**📧 Email Spam Detection (Classification)**
+**🧠 Overview**
 
 This project uses Machine Learning techniques to classify emails as Spam or Not Spam based on their text content.
 It applies Natural Language Processing (NLP) and a Logistic Regression model to identify spam messages efficiently.# Email-Spam-Detection
@@ -7,7 +7,7 @@ Machine Learning project for detecting spam emails using NLP and Logistic Regres
 
 ///
 
-🧩 Features
+**🧩 Features**
 
 Preprocesses email text using TF-IDF Vectorization
 
@@ -19,7 +19,7 @@ Predicts custom sample messages for real-world testing
 
 ///
 
-🛠️ Technologies Used
+**🛠️ Technologies Used**
 
 ~ Python
 
@@ -33,7 +33,7 @@ Predicts custom sample messages for real-world testing
 
 ///
 
-⚙️ Steps Performed
+**⚙️ Steps Performed**
 
 Data Loading & Cleaning
 
